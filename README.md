@@ -1,0 +1,1 @@
+This script does a basic call to Tampa Fire Department's online database and adds the responding vehicle to the dataframe as a list of values.
